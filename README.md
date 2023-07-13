@@ -10,5 +10,7 @@ Export image as Lua Source Code or ASCII Art Text File using [asciimoo's drawill
 ## Screenshots
 ![Screenshot1](https://raw.githubusercontent.com/absrydi/tgraf/main/tgraf-ss1.jpg)
 _spiral.tvim (Old)_
+![Screenshot2](https://raw.githubusercontent.com/absrydi/tgraf/main/tgraf-ss2.jpg)
+_tgraf0.1.1 Tool menu_
 ## Important Note!
 For Termux users: Working directory are now inside `data/data/com.termux/files/usr/lib/tgraf0.1.1-bin/`. To save or open file inside `$HOME`. Use prefix `../../../home/` before writing file name!
