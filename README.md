@@ -4,7 +4,7 @@ Vector image drawing tool for Termux
 Export image as Lua Source Code or ASCII Art Text File using [asciimoo's drawille library](https://github.com/asciimoo/lua-drawille) (included).
 ## Install
 ### Termux
-```git clone https://github.com/absrydi/tgraf.git && cd tgraf && bash tgraf011-install-termux.sh```
+```cd && git clone https://github.com/absrydi/tgraf.git && cd tgraf && bash tgraf011-install-termux.sh```
 ## Run
 ```bash tgraf011```
 ## Screenshots
