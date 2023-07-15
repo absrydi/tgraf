@@ -9,9 +9,11 @@ See at release
 ```bash tgraf011```
 ## Screenshots
 ![Screenshot1](https://raw.githubusercontent.com/absrydi/tgraf/main/tgraf-ss1.jpg)
-_spiral.tvim (Old)_
+_tgraf0.1.0 examples/spiral.tvim_
 ![Screenshot2](https://raw.githubusercontent.com/absrydi/tgraf/main/tgraf-ss2.jpg)
 _tgraf0.1.1 Tool menu_
+![Screenshot3](https://raw.githubusercontent.com/absrydi/tgraf/main/tgraf012-ss1.jpg)
+_tgraf0.1.2 examples/shape012.tvim_
 ## Howto:
 ### Draw Straight line
 type `tl`
