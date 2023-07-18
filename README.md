@@ -3,10 +3,12 @@ Vector image drawing tool for Termux
 
 Export image as Lua Source Code or ASCII Art Text File using [asciimoo's drawille library](https://github.com/asciimoo/lua-drawille) (included).
 ## Install
-### Termux
 See at release
 ## Run
-```bash tgraf011```
+`bash tgraf[version]`\
+\
+for example: v0.1.3 use
+`bash tgraf013`
 ## Screenshots
 ![Screenshot1](https://raw.githubusercontent.com/absrydi/tgraf/main/tgraf-ss1.jpg)
 _tgraf0.1.0 examples/spiral.tvim_
