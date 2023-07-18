@@ -27,7 +27,7 @@ type `pa`
 type `fs`
 ### Open
 type `fo`
-### Save as ASCII Ast
+### Save as ASCII Art
 type `fea`
 ## Important Note!
 For Termux users: Working directory are now inside `data/data/com.termux/files/usr/lib/tgraf0.1.1-bin/`. To save or open file inside `$HOME`. Use prefix `../../../home/` before writing file name!
